@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cymilad?tab=repositories](https://github.com/cymilad?tab=repositories)
 
-- 📝 I regularly write articles on [https://cymilad.ir](https://cymilad.ir)
-
 - 💬 Ask me about **html , css , js , bootstrap , php , mysql , python**
 
 - 📫 How to reach me **milad1418@yahoo.com**
