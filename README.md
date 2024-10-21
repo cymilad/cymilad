@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cymilad</h1>
+<h1 align="center">Hi 👋, I'm milad</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/cymilad?tab=repositories](https://github.com/cymilad?tab=repositories)
