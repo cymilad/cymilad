@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm milad</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Back-End Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/cymilad?tab=repositories](https://github.com/cymilad?tab=repositories)
 
-- 💬 Ask me about **html , css , js , bootstrap , php , mysql , python**
+- 💬 Ask me about **Html , Css , Bootstrap , Mysql , PostgreSQL , Python , Django**
 
 - 📫 How to reach me **milad1418@yahoo.com**
 
