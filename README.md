@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **milad1418@yahoo.com**
 
-- 📄 Know about my experiences [https://cymilad.ir](https://cymilad.ir)
+- 📄 Know about my experiences [https://cymilad.ir](https://cyberamooz.ir)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
