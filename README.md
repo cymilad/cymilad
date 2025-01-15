@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cymilad?tab=repositories](https://github.com/cymilad?tab=repositories)
 
-- 💬 Ask me about **Html , Css , Bootstrap , Mysql , PostgreSQL , Python , Django**
+- 💬 Ask me about **Html , Css , Bootstrap , Mysql , Sqlite , Python , Django**
 
 - 📫 How to reach me **milad1418@yahoo.com**
 
